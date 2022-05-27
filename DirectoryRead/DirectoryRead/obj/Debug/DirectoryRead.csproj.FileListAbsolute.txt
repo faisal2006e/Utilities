@@ -1,0 +1,12 @@
+C:\Users\FaisalRehman\source\repos\DirectoryRead\DirectoryRead\bin\Debug\DirectoryRead.exe.config
+C:\Users\FaisalRehman\source\repos\DirectoryRead\DirectoryRead\bin\Debug\DirectoryRead.exe
+C:\Users\FaisalRehman\source\repos\DirectoryRead\DirectoryRead\bin\Debug\DirectoryRead.pdb
+C:\Users\FaisalRehman\source\repos\DirectoryRead\DirectoryRead\obj\Debug\DirectoryRead.csproj.AssemblyReference.cache
+C:\Users\FaisalRehman\source\repos\DirectoryRead\DirectoryRead\obj\Debug\DirectoryRead.Form1.resources
+C:\Users\FaisalRehman\source\repos\DirectoryRead\DirectoryRead\obj\Debug\DirectoryRead.Properties.Resources.resources
+C:\Users\FaisalRehman\source\repos\DirectoryRead\DirectoryRead\obj\Debug\DirectoryRead.csproj.GenerateResource.cache
+C:\Users\FaisalRehman\source\repos\DirectoryRead\DirectoryRead\obj\Debug\DirectoryRead.csproj.CoreCompileInputs.cache
+C:\Users\FaisalRehman\source\repos\DirectoryRead\DirectoryRead\obj\Debug\DirectoryRead.exe
+C:\Users\FaisalRehman\source\repos\DirectoryRead\DirectoryRead\obj\Debug\DirectoryRead.pdb
+C:\Users\FaisalRehman\source\repos\DirectoryRead\DirectoryRead\obj\Debug\DirectoryRead.frmFileRead.resources
+C:\Users\FaisalRehman\source\repos\DirectoryRead\DirectoryRead\obj\Debug\DirectoryRead.MainForm.resources
